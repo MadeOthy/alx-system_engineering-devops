@@ -1,1 +1,1 @@
-0x02 shell 10 redirections qnd filters readme file
+0x02 Shell IO redirections and filters readm file
